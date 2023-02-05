@@ -1,0 +1,179 @@
+html {
+    overflow-x: hidden;
+  }
+  body {
+    margin: 0;
+    width: 375px;
+    overflow-x: hidden;
+    margin: 0 auto;
+    background: #F2F2F2;
+  }
+  .mobile-2x,
+  .tablet,
+  .tablet-2x,
+  .desktop,
+  .desktop-2x {
+    display: none;
+  }
+  .header img{
+    width: 100%;
+  }
+  .main{
+    background-color: white;
+  }
+  .header h1{
+   font-family: "Big Shoulders Display";
+   font-style: normal;
+   font-weight: 900;
+   font-size: 60px;
+   line-height: 55px;
+   color: #151515;
+   margin: 16px;
+  }
+  .header p{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    height: 112px;
+    left: 4.27%;
+    right: 4.27%;
+    margin:16px;
+  }
+  .button{
+    display: flex;
+    width: 100%;
+  
+  }
+
+
+ h2{
+  font-family: "Big Shoulders Display";
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 24px;
+    letter-spacing: 3.6363637447357178px;
+    text-align: left;
+    background-color: black;
+    color:white;
+    margin:16px;
+    height: 72px;
+    width: 204px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.arrow {
+  
+  background-color: #D5966C;
+  height: 72px;
+  width: 56px;
+  padding: 5px;
+ 
+ 
+}
+.arrow img{
+  width: 8px;
+  height: 24px;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section2{
+  width: 343px;
+}
+.section2 img{
+width: 100%;
+margin: 16px;
+}
+.section2 h1{
+  font-family: "Big Shoulders Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 45px;
+  margin: 16px;
+  text-transform: uppercase;
+  color: #151515;
+  }
+
+  .section2 p{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    margin:16px;
+    color: #444444;
+
+  }
+  .section3{
+    width: 100%;
+    margin: 16px;
+  }
+  .section4{
+    margin:16px;
+    background-color: #151515;
+    color:white;
+    padding:24px;
+  }
+  .section4 h1{
+    font-family: "Big Shoulders Display";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 45px;
+  }
+  .section4 p{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .section5{
+    background-color: #151515;
+    width: 375px;
+    height: 336px;
+    
+    
+  }
+  .section5 img{
+    
+    padding-left: 32px;
+    padding-top:48px;
+    height:40px;
+    width: 110.05px;
+    
+    
+  }
+  .section5 p{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: white;
+    padding-left: 32px;
+    padding-top:20px;
+   
+  }
+  .section5 .fb{
+    width: 20px;
+    height: 20px;
+    gap:1.5px;
+    
+  }
+  .section5 .insta{
+    width: 20px;
+    height: 20px;
+    gap:1.5px;
+  }
+  .section5 .twitter{
+    width: 20px;
+    height: 20px;
+    
+  }
