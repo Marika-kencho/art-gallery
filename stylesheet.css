@@ -1,6 +1,8 @@
 html {
     overflow-x: hidden;
   }
+  @media screen and (max-width: 375px) {
+
   body {
     margin: 0;
     width: 375px;
@@ -177,3 +179,24 @@ margin: 16px;
     height: 20px;
     
   }
+}
+@media screen and (max-width: 768px) {
+  .tablet-img{
+    display: none;
+  }
+  .body{
+  width: 375px; 
+  height: 1379px;
+}
+.tablet-img{
+  width: 437px;
+  height: 700px;
+  
+}
+.header h1{
+font-size: 70px;
+line-height: 65px;
+margin-top: 145px;
+margin-right: 40px;
+}
+}
